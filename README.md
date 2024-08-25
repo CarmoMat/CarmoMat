@@ -7,8 +7,9 @@ Bem-vindo ao meu cantinho no GitHub, onde eu compartilho um pouco do que faço e
 ## 💼 Sobre Mim
 
 - 👩‍💻 Desenvolvedor Back-end apaixonado por código e desafios.
-- 📘 Cursando Bacharelado em Tecnologia da informação na UNIVESP. 
-- 🌱 Atualmente estou aprendendo C#.
+- 📘 Cursando Bacharelado em Tecnologia da informação na UNIVESP.
+- 📘 Estudante do Programa ONE da Oracle + Alura.
+- 🌱 Atualmente estou aprendendo Java.
 - 🤝 Estou aberto a colaborações e novos projetos, então sinta-se à vontade para entrar em contato.
 
 
