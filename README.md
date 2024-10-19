@@ -9,7 +9,7 @@ Bem-vindo ao meu cantinho no GitHub, onde eu compartilho um pouco do que faço e
 - 👩‍💻 Desenvolvedor Back-end apaixonado por código e desafios.
 - 📘 Cursando Bacharelado em Tecnologia da informação na UNIVESP.
 - 📘 Estudante do Programa ONE da Oracle + Alura.
-- 🌱 Atualmente estou aprendendo Java.
+- 🌱 Atualmente estou aprendendo Java e Spring.
 - 🤝 Estou aberto a colaborações e novos projetos, então sinta-se à vontade para entrar em contato.
 
 
@@ -21,6 +21,7 @@ Bem-vindo ao meu cantinho no GitHub, onde eu compartilho um pouco do que faço e
 ## 💬 Vamos Conectar?
 
 - 📫 Me mande um email em matheushgdocarmo@gmail.com.
+
 - 👔 Veja meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/matheus-henrique-5a4487143/).
 
 ## 📊 Estatísticas Rápidas
